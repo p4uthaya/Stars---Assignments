@@ -1,2 +1,2 @@
-# Stars---Assignments
-PHYS 375 Code
+# Stars-Assignments
+PHYS 375 Code for assignments
